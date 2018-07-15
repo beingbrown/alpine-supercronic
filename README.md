@@ -1,7 +1,7 @@
 Alpine-supercronic
 ===
 
-Simple docker image based on alpine 3.6. 
+Simple docker image based on alpine.
 
 Run [supercronic](https://github.com/aptible/supercronic).
 
