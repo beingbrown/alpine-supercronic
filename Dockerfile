@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM alpine:latest
 
 ENV SUPERCRONIC_VERSION="v0.1.3" \
     SUPERCRONIC_PACKAGE=supercronic-linux-amd64 \
